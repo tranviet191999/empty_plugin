@@ -1,5 +1,5 @@
 {application, emqx_plugin_template,
- [{description, "EMQ X Plugin Template"},
+ [{description, "EMQ X Plugin aaaaaaaaaaaaaaaaaaaaaaaaaaaa"},
   {vsn, "git"},
   {modules, []},
   {registered, [emqx_plugin_template_sup]},
@@ -9,6 +9,6 @@
   {licenses, ["Apache-2.0"]},
   {maintainers, ["EMQ X Team <contact@emqx.io>"]},
   {links, [{"Homepage", "https://emqx.io/"},
-           {"Github", "https://github.com/emqx/emqx-plugin-template"}
+           {"Github", "https://github.com/tranviet191999/empty_plugin"}
           ]}
  ]}.
